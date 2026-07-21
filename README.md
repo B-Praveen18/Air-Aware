@@ -1,8 +1,9 @@
 # 🌍 Air-Aware – AI-Powered Air Pollution Awareness Platform
 
-🌐 **Live Demo:** 
+Live Demo:** 
 https://air-aware-tau.vercel.app
-💻 **GitHub Repository:** 
+
+GitHub Repository:** 
 https://github.com/B-Praveen18/Air-Aware
 
 ---
